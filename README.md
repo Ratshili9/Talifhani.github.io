@@ -2,7 +2,7 @@
 
 # Hello, I'm Talifhani Mutsharini 👋
 
-I am a self-taught programmer and tech enthusiast from Sebokeng, Gauteng. My passion lies in exploring new technologies and creating innovative solutions through programming, web development, and game development.
+I am a self-taught programmer and tech enthusiast from Gauteng. My passion lies in exploring new technologies and creating innovative solutions through programming, web development, and game development.
 
 Recently, I’ve been focusing on mastering full-stack development, including languages like Python and JavaScript. I’m also experimenting with game design using Blender and Godot.
 
